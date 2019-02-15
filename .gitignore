@@ -1,0 +1,11 @@
+
+*.html
+*.png
+*.css
+*.js
+*.o
+*.tex
+*.sty
+latex/Makefile
+makefile
+HW3B
